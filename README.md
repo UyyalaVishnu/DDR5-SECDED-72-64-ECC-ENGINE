@@ -148,13 +148,9 @@ The implementation follows an industry-standard SoC design flow:
 ## Author & Acknowledgments
 
 - **Design Engineer**: VVR
-- **Affiliation**: IIITDM Kurnool Internship Program
 - **Technology**: 45nm CMOS
 - **Year**: 2026
 
-## License
-
-[Specify your license here - e.g., MIT, Apache 2.0, etc.]
 
 ## Contributing
 
@@ -167,9 +163,3 @@ For contributions, please:
 ## Support
 
 For questions or issues regarding this design, please refer to the project documentation or contact the design team.
-
----
-
-**Last Updated**: June 2026  
-**Design Status**: Production Ready (Sign-Off Complete)  
-**Repository**: [Your Git Repository URL]
